@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kiran Nandi (devinxhacker)
+# 👋 Hi, I'm Kiran Nandi
 
 An agile Systems, Cloud, and Backend Software Engineer specializing in building robust, high-performance distributed systems, secure enterprise microservices, and event-driven cloud pipelines.
 
