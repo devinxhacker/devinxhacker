@@ -33,18 +33,18 @@
 <div align="center">
 
 <!-- BOOT LINE 1: deep muted red #6B0000 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=600&color=6B0000&background=00000000&center=true&vCenter=true&multiline=false&repeat=false&width=700&height=26&lines=%5BSYSTEM+INIT%5D+Loading+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Kiran Nandi GitHub profile — Java Backend Engineer Pune India" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=600&color=a80202&background=00000000&center=true&vCenter=true&multiline=false&repeat=false&width=700&height=26&lines=%5BSYSTEM+INIT%5D+Loading+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Kiran Nandi GitHub profile — Java Backend Engineer Pune India" />
 
 <!-- BOOT LINE 2: even deeper #4a0000 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=600&color=4a0000&background=00000000&center=true&vCenter=true&multiline=false&repeat=false&width=700&height=22&lines=%5BACCESS+GRANTED%5D+Identity+confirmed+%2F%2F+KIRAN+NANDI+%40devinxhacker" alt="Access granted — Kiran Nandi, devinxhacker, MIT Academy of Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=600&color=a30f0f&background=00000000&center=true&vCenter=true&multiline=false&repeat=false&width=700&height=22&lines=%5BACCESS+GRANTED%5D+Identity+confirmed+%2F%2F+KIRAN+NANDI+%40devinxhacker" alt="Access granted — Kiran Nandi, devinxhacker, MIT Academy of Engineering" />
 
 <br/>
 
 <!-- MAIN NAME: rich deep red #8B1A1A — readable, not glowing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&pause=3000&color=8B1A1A&background=00000000&center=true&vCenter=true&width=700&height=76&lines=KIRAN+NANDI" alt="Kiran Nandi — devinxhacker — Java Spring Boot AWS Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&pause=3000&color=f52727&background=00000000&center=true&vCenter=true&width=700&height=76&lines=KIRAN+NANDI" alt="Kiran Nandi — devinxhacker — Java Spring Boot AWS Engineer" />
 
 <!-- ROLE ROTATION: muted dark red #7a1515 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=7a1515&background=00000000&center=true&vCenter=true&width=720&height=30&lines=Backend+Architect+%7C+Cloud+Engineer;Distributed+Systems+Builder;Competitive+Programmer+%7C+Published+Researcher;Java+%2B+AWS+%2B+Spring+Boot+Specialist;Pharma+%26+Healthcare+ERP+Developer" alt="Java Backend Architect, AWS Cloud Engineer, Competitive Programmer, Spring Boot Specialist, Pune India" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=a30f0f&background=00000000&center=true&vCenter=true&width=720&height=30&lines=Backend+Architect+%7C+Cloud+Engineer;Distributed+Systems+Builder;Competitive+Programmer+%7C+Published+Researcher;Java+%2B+AWS+%2B+Spring+Boot+Specialist;Pharma+%26+Healthcare+ERP+Developer" alt="Java Backend Architect, AWS Cloud Engineer, Competitive Programmer, Spring Boot Specialist, Pune India" />
 
 <br/>
 
@@ -214,8 +214,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devinxhacker&theme=gruvbox&no-bg=true&no-frame=false&column=6&margin-w=4&margin-h=4" alt="Kiran Nandi GitHub Trophies — Smart India Hackathon Winner MITAOE Pune" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devinxhacker&bg_color=0d0d0d&color=a31818&line=5c1010&point=8b1a1a&area=true&area_color=3a0000&hide_border=false&border_color=250000&title_color=db2c2c" width="98%" alt="Kiran Nandi GitHub Activity Graph — devinxhacker contribution history" />
 </div>
 
 <br/>
@@ -232,7 +231,7 @@
 
 <br/>
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=3a0000&height=80&section=footer)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=800101&height=80&section=footer)
 
 <div align="center">
 
