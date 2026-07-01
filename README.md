@@ -49,8 +49,8 @@
 <br/>
 
 <!-- BADGES: dark bg, muted red icons — no saturated fill -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=8b1a1a)](https://linkedin.com/in/kiran-nandi-76a003288)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=google-chrome&logoColor=8b1a1a)](https://kiran-nandi.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=8b1a1a)](https://linkedin.com/in/kiran-nandi-in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=google-chrome&logoColor=8b1a1a)](https://kirannandi.me)
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=8b1a1a)](mailto:nandikiran15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=8b1a1a)](https://github.com/devinxhacker)
 [![CodeChef](https://img.shields.io/badge/CodeChef-0d0d0d?style=for-the-badge&logo=codechef&logoColor=8b1a1a)](https://www.codechef.com/users/while_flies_62)
